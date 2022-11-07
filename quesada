@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<!DOCTYPE receta>
+<receta>
+  <plato>Quesada pasiega</plato>
+    <comensales>4</comensales>
+      <ingrediente cantidad="1" unidad="Kg." nombre="leche cuajada" />
+      <ingrediente cantidad="4" unidad="cantidad" nombre="huevos" />
+      <ingrediente cantidad="100" unidad="gramos" nombre="mantequilla" />
+      <ingrediente cantidad="250" unidad="gramos" nombre="azucar" />
+      <ingrediente cantidad="100" unidad="gramos" nombre="harina" />
+      <ingrediente cantidad="1/2" unidad="cantidad" nombre="cascara de limon" />
+      <ingrediente cantidad="" unidad="" nombre="canela en polvo" />
+  <proceso>
+    <paso>Batir los huevos con el azúcar y la mantequilla fundida.</paso>
+    <paso>Triturar, con las manos, el queso fresco con la ralladura del limón y un poco de canela en polvo.</paso>
+    <paso>Añadirlo al batido con los huevos, mezclando hasta conseguir una pasta no muy homogénea no importa que queden algunos trocitos pequeños de requesón. Incorporar la harina poco a poco, amasando con las manos.</paso>
+    <paso>Cuando la mezcla haya admitido toda la harina se vierte en un molde de tarta, tradicionalmente sería un molde ovalado.</paso>
+    <paso>Meter al horno 200 ºC durante media hora</paso>
+    <paso> Se trocea el queso y se mezclan los ingredientes con las manos precisamente para que quede la masa con trocitos que luego al cocerla en el horno desaparecen.</paso>
+  </proceso>
+</receta> 
