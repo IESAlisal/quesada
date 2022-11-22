@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
 <!DOCTYPE receta>
 
-<!ELEMENT receta (plato, comensales, ingredientes+, proceso)>
+<!ELEMENT receta (plato, comensales, ingrediente+, proceso)>
 <!ELEMENT plato (#PCDATA)>
 <!ELEMENT comensales (#PCDATA)>
-<!ELEMENT ingredientes (cantidad, unidad)>
-<!ELEMENT proceso (paso)>
+<!ELEMENT ingrediente (#PCDATA)>
+<!ELEMENT proceso (paso+)>
 
 <!ATTLIST ingredientes cantidad (#CDATA) #REQUIRED>
 <!ATTLIST ingredientes unidad (#CDATA) #IMPLIED>
